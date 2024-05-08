@@ -2,6 +2,8 @@
 
 This project aims to create a currency converter using React custom hooks. The conversion rates are fetched from an external API and displayed to the user. This README provides a step-by-step guide to creating the currency converter.
 
+### Demo - https://currency-convertor-rust.vercel.app/
+
 #### Important Steps:
 
 1. **Create Custom Hook**:
